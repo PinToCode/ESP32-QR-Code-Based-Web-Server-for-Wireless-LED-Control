@@ -1,5 +1,9 @@
 # ESP32 QR Web Server LED Control
 
+<p align="center">
+  <img src="oledEsp_circuit.png" width="350">
+</p>
+
 ## Overview
 
 This project uses an ESP32 to host a local web server for controlling an LED.
